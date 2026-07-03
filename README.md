@@ -37,4 +37,6 @@ Evita tener que lidiar con la consola services.msc de Windows o recordar comando
 
 3.Si detuvo los servicios de VMWare y al activarlos y arrancar una maquina no hay internet, pulsa la opcion 10 (no importa si la maquina virtual esta encendida)
 
+4.Si se quiere poner el icono, debe guardar el .ico y crear un acceso directo del script y implementarlo hay (No deja en el archivo .bat directamente)
+
 <img width="931" height="740" alt="Captura de pantalla 2026-06-19 221856" src="https://github.com/user-attachments/assets/008959cf-9a18-4409-9dde-37deecfb1512" />
