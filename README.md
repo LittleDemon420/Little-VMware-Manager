@@ -158,7 +158,7 @@ Todo ello desde una única ventana de consola.
 <br>
  <h1>⚠️ Advertencias</h1>
 
-> [⚠️!WARNING⚠️]
+> [!WARNING⚠️]
 > **Este programa requiere permisos de Administrador** para gestionar servicios de Windows, procesos y configuraciones de red.
 
 ### ⚠️Conectividad de red
