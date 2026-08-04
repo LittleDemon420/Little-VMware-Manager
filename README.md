@@ -154,24 +154,25 @@ Una vez iniciado aparecerá un menú interactivo desde el que podrás:
 Todo ello desde una única ventana de consola.
 
 ---
-
+<br>
+<br>
 # ⚠️ Advertencias
 
 > [!WARNING]
 > **Este programa requiere permisos de Administrador** para gestionar servicios de Windows, procesos y configuraciones de red.
+
+### ⚠️Conectividad de red
+
+Si has detenido los servicios de VMware y, tras volver a iniciarlos, alguna máquina virtual no dispone de conexión a Internet:
+
+- Pulsa la **opción 10** del menú.
+- No es necesario apagar la máquina virtual.
 
 ### Instalación
 
 VMware Workstation debe instalarse utilizando **las rutas predeterminadas** del instalador.
 
 Modificar la ubicación de instalación puede impedir que algunas funciones localicen correctamente los ejecutables.
-
-### Conectividad de red
-
-Si has detenido los servicios de VMware y, tras volver a iniciarlos, alguna máquina virtual no dispone de conexión a Internet:
-
-- Pulsa la **opción 10** del menú.
-- No es necesario apagar la máquina virtual.
 
 ### Icono personalizado
 
