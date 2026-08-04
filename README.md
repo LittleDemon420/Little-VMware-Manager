@@ -156,9 +156,9 @@ Todo ello desde una única ventana de consola.
 ---
 <br>
 <br>
- ⚠️ Advertencias
+ <h1>⚠️ Advertencias</h1>
 
-> [!WARNING]
+> [⚠️!WARNING⚠️]
 > **Este programa requiere permisos de Administrador** para gestionar servicios de Windows, procesos y configuraciones de red.
 
 ### ⚠️Conectividad de red
@@ -168,13 +168,13 @@ Si has detenido los servicios de VMware y, tras volver a iniciarlos, alguna máq
 - Pulsa la **opción 10** del menú.
 - No es necesario apagar la máquina virtual.
 
-### Instalación
+### ⚠️Instalación
 
 VMware Workstation debe instalarse utilizando **las rutas predeterminadas** del instalador.
 
 Modificar la ubicación de instalación puede impedir que algunas funciones localicen correctamente los ejecutables.
 
-### Icono personalizado
+### ⚠️Icono personalizado
 
 Windows no permite asignar un icono directamente a un archivo **.bat**.
 
