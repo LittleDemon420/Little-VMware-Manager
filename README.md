@@ -156,7 +156,7 @@ Todo ello desde una única ventana de consola.
 ---
 <br>
 <br>
-# ⚠️ Advertencias
+ ⚠️ Advertencias
 
 > [!WARNING]
 > **Este programa requiere permisos de Administrador** para gestionar servicios de Windows, procesos y configuraciones de red.
