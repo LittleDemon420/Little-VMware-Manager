@@ -1,6 +1,6 @@
 <div align="center">
 
-# Little VMware Manager 🛠️⚡
+# Little VMware Manager V8🛠️⚡
 
 ### **CLI Manager para VMware Workstation**
 
